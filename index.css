@@ -1,8 +1,8 @@
-.parent{
+.parent {
     position: relative;
 }
 
-.above-fold{
+.above-fold {
     position: absolute;
     top: 50%;
     left: 50%;
