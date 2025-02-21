@@ -1,6 +1,6 @@
-const nameGirl = 'Em';
+const nameGirl = 'Người anh thương';
 const giftUrl = '';
-const eventName = 'Chúc Mừng Sinh Nhật';
+const eventName = 'Gửi emm';
 const titleCard = 'Thảo dâu';
 const contentCard = 'Chúc em có một ngày 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau. Yêu em nhiều';
 
